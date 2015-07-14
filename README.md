@@ -3,4 +3,4 @@
 
 [![License](https://poser.pugx.org/version/version/license)](https://packagist.org/packages/version/version)
 
-This simple package have the intent to help the developers in this task.
+This simple package have the intent to help the developers upload files to server.

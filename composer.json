@@ -1,0 +1,21 @@
+{
+    "name": "developerewt/simple-upload",
+    "description": "Upload files of simple way",
+    "license": "MIT",
+    "keywords": ["upload", "file", "upload file", "upload image", "upload data", "archive"],
+    "authors": [
+        {
+            "name": "Ewerton Melo",
+            "email": "developerewt@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DeveloperEwt\\": "src/"
+        }
+    }
+}
